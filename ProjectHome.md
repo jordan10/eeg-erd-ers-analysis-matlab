@@ -1,0 +1,1 @@
+Simple MATLAB code for Event Related Synchronisation and Event Related Desynchronisation analysis of EEG data.
